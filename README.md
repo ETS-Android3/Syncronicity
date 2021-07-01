@@ -20,6 +20,8 @@ This is a basic application that allows a user to:
 -View individual lists or all todo items at one time with the
 
 ## Screenshots Post Expansion
-|<img src="/docs/login-page.png" height="400px"/> | <img src="/docs/all-items-light.png" height="400px"/> | <img src="/docs/lists-list.png" height="400px"/> | <img src="/docs/main-view-dark.png" height="400px"/>|
+| | | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img src="/docs/login-page.png" height="450px"/> | <img src="/docs/all-items-light.png" height="450px"/> | <img src="/docs/lists-list.png" height="450px"/> | <img src="/docs/main-view-dark.png" height="450px"/>|
 
 ### For more images from the original project see the "Screenshots" folder
