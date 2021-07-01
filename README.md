@@ -19,7 +19,7 @@ This is a basic application that allows a user to:
 -User can submit feedback via email within the application letting us know how to improve the application
 -View individual lists or all todo items at one time with the
 
-### Screenshots Post Expansion
-<img src="/docs/login-page.png" height="200px"/><img src="/docs/all-items-light.png" height="200px"/><img src="/docs/lists-list.png" height="200px"/><img src="/docs/main-view-dark.png" height="200px"/>
+## Screenshots Post Expansion
+<img src="/docs/login-page.png" height="200px"/>  <img src="/docs/all-items-light.png" height="200px"/>  <img src="/docs/lists-list.png" height="200px"/>  <img src="/docs/main-view-dark.png" height="200px"/>
 
 ### For more images from the original project see the "Screenshots" folder
