@@ -17,7 +17,7 @@ This is a basic application that allows a user to:
 -Storage of all relevant profile options and data stored both locally and on database
 -User can create (and delete) multiple lists so that they can achieve better organization. Example: grocery list, homework, athletics, due dates....
 -User can submit feedback via email within the application letting us know how to improve the application
--View individual lists or all todo items at one time with the
+-View individual lists or all todo items at one time
 
 ## Screenshots Post Expansion
 | | | | |
